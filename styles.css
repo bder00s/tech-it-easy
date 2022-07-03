@@ -1,0 +1,15 @@
+body {
+    font-family: "Arial Black", "sans-serif";
+}
+
+#soldtvs {
+    color: mediumseagreen;
+}
+
+#boughttvs {
+    color: blue;
+}
+
+#need-to-be-sold {
+    color: red;
+}
